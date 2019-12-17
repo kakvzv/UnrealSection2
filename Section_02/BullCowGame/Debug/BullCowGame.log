@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  BullCowGame.vcxproj -> D:\PULPIT\studia\programowanie\Section02\Section_02\Debug\BullCowGame.exe
+LINK : fatal error LNK1168: nie można otworzyć pliku D:\PULPIT\studia\programowanie\Section02\section02\Section_02\Debug\BullCowGame.exe do zapisu
