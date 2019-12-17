@@ -1,2 +1,8 @@
-﻿  main.cpp
-LINK : fatal error LNK1168: nie można otworzyć pliku D:\PULPIT\studia\programowanie\Section02\section02\Section_02\Debug\BullCowGame.exe do zapisu
+﻿  FBullCowGame.cpp
+d:\pulpit\studia\programowanie\section02\section02\section_02\bullcowgame\fbullcowgame.cpp(33): error C2511: „int FBullCowGame::GetMaxTries(void)”: Przeciążona funkcja składowa nie została znaleziona w „FBullCowGame”
+  d:\pulpit\studia\programowanie\section02\section02\section_02\bullcowgame\fbullcowgame.h(29): note: zobacz deklarację „FBullCowGame”
+d:\pulpit\studia\programowanie\section02\section02\section_02\bullcowgame\fbullcowgame.cpp(34): error C2065: "MyMaxTries": niezadeklarowany identyfikator
+d:\pulpit\studia\programowanie\section02\section02\section_02\bullcowgame\fbullcowgame.cpp(38): error C2511: „int FBullCowGame::GetCurrentTry(void)”: Przeciążona funkcja składowa nie została znaleziona w „FBullCowGame”
+  d:\pulpit\studia\programowanie\section02\section02\section_02\bullcowgame\fbullcowgame.h(29): note: zobacz deklarację „FBullCowGame”
+  main.cpp
+  Generowanie kodu...
